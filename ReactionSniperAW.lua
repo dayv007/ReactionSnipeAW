@@ -1,4 +1,5 @@
---
+-- Thank you for using my script.
+-- Hit me up on discord to request new features and maybe I add them.
 
 local author = "DaveLTC";
 local author highscore = "0.53 sec";
