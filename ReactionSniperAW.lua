@@ -1342,7 +1342,7 @@ callbacks.Register("Draw", "DrawFrame", DrawFrame );
 
 --- Auto updater by ShadyRetard/Shady#0001
 local SCRIPT_FILE_NAME = GetScriptName();
-local SCRIPT_FILE_ADDR = "https://raw.githubusercontent.com/dayv007/BetterSpamAW/master/BetterSpam.lua";
+local SCRIPT_FILE_ADDR = "https://raw.githubusercontent.com/dayv007/ReactionSnipe/master/ReactionSnipe.lua";
 local VERSION_FILE_ADDR = "https://raw.githubusercontent.com/dayv007/ReactionSnipeAW/master/version.txt";
 local VERSION_NUMBER = "1.0";
 local version_check_done = false;
